@@ -43,23 +43,18 @@ The system loads data from two text files:
 ### Running the Server
 ```bash
 javac -d out *.java util/*.java
-java -cp out Server
+java Server
 ```
 
 ### Running Console Clients
 ```bash
 # Customer client
-java -cp out Client
+java Client
 
 # Restaurant client (enter restaurant name when prompted)
-java -cp out RestaurantClient
+java RestaurantClient
 ```
 
-### Running GUI Clients (requires JavaFX)
-If you have JavaFX installed, you can run the GUI versions:
-```bash
-java -cp out --module-path /path/to/javafx/lib --add-modules javafx.controls,javafx.fxml ClientGUI
-```
 
 ## User Workflows
 
