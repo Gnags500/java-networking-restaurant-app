@@ -1,0 +1,2 @@
+public class ReadThreadClass2 {
+}
