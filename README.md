@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Restaurant Ordering System
 
 A Java networking project that simulates a restaurant ordering system with a client-server architecture. This application uses sockets for communication and provides a GUI interface for both customers and restaurant managers.
@@ -98,4 +98,4 @@ java -cp out --module-path /path/to/javafx/lib --add-modules javafx.controls,jav
 =======
 # java-networking-restaurant-app
 A Java‑based client‑server application for a restaurant ordering system, demonstrating socket programming, multithreading, and a simple GUI.
->>>>>>> origin/main
+
