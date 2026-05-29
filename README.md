@@ -74,9 +74,9 @@ java RestaurantClient
 ## Known Issues
 
 - **GUI Compilation Error**: The JavaFX GUI files cannot compile without JavaFX libraries. The error "package javafx.* does not exist" indicates missing JavaFX dependencies.
-- To use the GUI, you'll need to either:
+- To use the GUI, you'll need to :
   - Install JavaFX SDK and add it to your module path
-  - Convert the GUI to Swing (which is built into Java)
+  
   
 ## Network Configuration
 
